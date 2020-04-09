@@ -1,0 +1,1 @@
+This directory contains some simple python scripts which just implement very basics of Tkinter module in the Python.

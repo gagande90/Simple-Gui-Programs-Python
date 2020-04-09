@@ -1,0 +1,2 @@
+This directory contains Python scripts which contains some Python programs which can be used for doing day to day tasks on 
+a PC like editing, writing or deleting files etc.
